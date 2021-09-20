@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "815184799141",
+    "project_id": "hala-2db72",
+    "storage_bucket": "hala-2db72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815184799141:android:a1d2d9a11e3c2835da344c",
+        "android_client_info": {
+          "package_name": "com.example.addproduct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815184799141-g9tcl4pv1d9dine61os7g41diglqbija.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.addproduct",
+            "certificate_hash": "f117cbd797b50eb651787e5590473224b6e49b7e"
+          }
+        },
+        {
+          "client_id": "815184799141-7camdm2k5tuk1cbcokdv1489pi9383c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhHOFyFMj7rgANv0FfQhAuFZ6gw2FjZNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815184799141-7camdm2k5tuk1cbcokdv1489pi9383c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
